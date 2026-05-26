@@ -70,8 +70,6 @@
 
 ---
 
-# 📊 GitHub Analytics
-
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andrew628-ops&show_icons=true&theme=tokyonight&hide_border=true"/>
