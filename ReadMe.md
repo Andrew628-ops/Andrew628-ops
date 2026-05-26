@@ -12,24 +12,27 @@
 
 ---
 
-````html
 <table>
 <tr>
-<td width="100%">
+<td width="50%">
 
 ## 💫 About Me
 
-* 🚀 Building impactful projects
-* 🤝 Open to collaborations
-* 🌱 Learning something new every day
-* 💬 Ask me about Go, Rust, and JavaScript
-* ⚡ Passionate about solving difficult challenges
+- 🚀 Currently working on different projects  
+- 🤝 Open for collaboration  
+- 🌱 Learning every day  
+- 💬 Ask me about my TO DO list  
+- ⚡ I love difficult challenges  
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Andrew628-ops&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
 
 </td>
 </tr>
 </table>
-```
-
 
 ---
 
