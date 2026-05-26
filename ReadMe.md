@@ -12,27 +12,47 @@
 
 ---
 
+````html
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
 ## 💫 About Me
 
-- 🚀 Currently working on different projects  
-- 🤝 Open for collaboration  
-- 🌱 Learning every day  
-- 💬 Ask me about my TO DO list  
-- ⚡ I love difficult challenges  
+```go
+package main
 
-</td>
+type Developer struct {
+    Name     string
+    Role     string
+    Learning string
+    Focus    []string
+}
 
-<td width="50%">
+var Andy = Developer{
+    Name:     "Andrew Otokpa",
+    Role:     "Full Stack Developer",
+    Learning: "Building scalable projects & improving daily",
+    Focus: []string{
+        "Open Source",
+        "Backend Development",
+        "Cloud & DevOps",
+        "Problem Solving",
+    },
+}
+````
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Andrew628-ops&show_icons=true&theme=tokyonight&hide_border=true" width="100%" /> -->
+* 🚀 Building impactful projects
+* 🤝 Open to collaborations
+* 🌱 Learning something new every day
+* 💬 Ask me about Go, Rust, and JavaScript
+* ⚡ Passionate about solving difficult challenges
 
 </td>
 </tr>
 </table>
+```
+
 
 ---
 
