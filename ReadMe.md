@@ -13,7 +13,11 @@
 ---
 
 ````html
+<table>
+<tr>
+<td width="100%">
 
+## 💫 About Me
 
 * 🚀 Building impactful projects
 * 🤝 Open to collaborations
@@ -21,6 +25,9 @@
 * 💬 Ask me about Go, Rust, and JavaScript
 * ⚡ Passionate about solving difficult challenges
 
+</td>
+</tr>
+</table>
 ```
 
 
