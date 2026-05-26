@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=AndyTechWorld&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Code%20•%20Build%20•%20Innovate%20•%20Repeat&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=AndyTechWorld&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Code%2[...]
 
 
 # ⚡ AndyTechWorld
@@ -77,16 +77,6 @@
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Andrew628-ops&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew628-ops&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Andrew628-ops&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
