@@ -13,34 +13,7 @@
 ---
 
 ````html
-<table>
-<tr>
-<td width="100%">
 
-## 💫 About Me
-
-```go
-package main
-
-type Developer struct {
-    Name     string
-    Role     string
-    Learning string
-    Focus    []string
-}
-
-var Andy = Developer{
-    Name:     "Andrew Otokpa",
-    Role:     "Full Stack Developer",
-    Learning: "Building scalable projects & improving daily",
-    Focus: []string{
-        "Open Source",
-        "Backend Development",
-        "Cloud & DevOps",
-        "Problem Solving",
-    },
-}
-````
 
 * 🚀 Building impactful projects
 * 🤝 Open to collaborations
@@ -48,9 +21,6 @@ var Andy = Developer{
 * 💬 Ask me about Go, Rust, and JavaScript
 * ⚡ Passionate about solving difficult challenges
 
-</td>
-</tr>
-</table>
 ```
 
 
