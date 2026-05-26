@@ -82,6 +82,16 @@
 
 ---
 
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Andrew628-ops&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
 # ✍️ Random Dev Quote
 
 <div align="center">
