@@ -6,7 +6,7 @@
 
 # ⚡ AndyTechWorld
 
-### 🚀 Full Stack Developer | Open Source Enthusiast | Problem Solver
+### 🚀 Junior Developer | Open Source Enthusiast | Problem Solver
 
 </div>
 
@@ -20,8 +20,7 @@
 
 - 🚀 Currently working on different projects  
 - 🤝 Open for collaboration  
-- 🌱 Learning every day  
-- 💬 Ask me about my TO DO list  
+- 🌱 Learning every day    
 - ⚡ I love difficult challenges  
 
 </td>
