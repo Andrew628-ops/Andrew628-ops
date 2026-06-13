@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=AndyTechWorld&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Code%2[...]
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=AndyTechWorld&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Code%20%7C%20Open%20Source%20%7C%20Problem%20Solver"/>
 
 
 # ⚡ AndyTechWorld
