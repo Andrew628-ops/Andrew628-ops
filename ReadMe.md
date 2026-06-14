@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=AndyTechWorld&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Code%20%7C%20Open%20Source%20%7C%20Problem%20Solver"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=AndyTechWorld&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Code%20%7C%20Create%20%7C%20Collaborate&descAlignY=55&descAlign=62"/>
 
 
 # ⚡ AndyTechWorld
@@ -85,7 +85,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Andrew628-ops&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Andrew628-ops&theme=dark&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophies"/>
 
 </div>
 
