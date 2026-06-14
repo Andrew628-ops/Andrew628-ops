@@ -105,7 +105,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-repos/?username=Andrew628-ops&theme=tokyonight&hide_border=true" alt="Top Repositories"/>
+<img src="https://github-readme-stats.vercel.app/api/top-repos?username=Andrew628-ops&theme=tokyonight&hide_border=true&layout=compact" alt="Top Repositories"/>
 
 </div>
 
