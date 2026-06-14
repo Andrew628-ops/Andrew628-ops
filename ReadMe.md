@@ -101,11 +101,13 @@
 
 ---
 
-# 🔝 Top Contributed Repo
+# 🔝 Top Repositories
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-repos?username=Andrew628-ops&theme=tokyonight&hide_border=true&layout=compact" alt="Top Repositories"/>
+**Check out my pinned repositories below!** 📌
+
+[![Andrew628-ops's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=Andrew628-ops&repo=Andrew628-ops&theme=tokyonight)](https://github.com/Andrew628-ops/Andrew628-ops)
 
 </div>
 
