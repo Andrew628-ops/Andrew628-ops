@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=AndyTechWorld&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Code%20%7C%20Create%20%7C%20Collaborate&descAlignY=55&descAlign=62"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=AndyTechWorld&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Code%20%7C%20Innovation%20%7C%20Impact&descAlignY=55&descAlign=62" />
 
 
 # ⚡ AndyTechWorld
@@ -105,7 +105,7 @@
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=Andrew628-ops&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-repos/?username=Andrew628-ops&theme=tokyonight&hide_border=true" alt="Top Repositories"/>
 
 </div>
 
