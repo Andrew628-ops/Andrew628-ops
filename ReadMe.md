@@ -63,7 +63,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=go,js,react,html,mysql,aws,git,github,vscode,python3,css" />
+<img src="https://skillicons.dev/icons?i=go,js,react,html,mysql,aws,git,github,vscode,python,css" />
 
 </div>
 
