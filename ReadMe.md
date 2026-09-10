@@ -73,7 +73,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andrew628-ops&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://streak-stats.demolab.com" alt="GitHub Streak Stats" />
+<img height="180em" src="https://vercel.app" alt="GitHub Streak Stats" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew628-ops&layout=compact&theme=tokyonight&hide_border=true"/>
 
